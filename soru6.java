@@ -1,8 +1,3 @@
-class Ogrenci {
-    String ad;
-    String soyad;
-    int ogrenciNo;
-}
 public class soru6 {
     public static void main(String[] args) {
         Ogrenci o1 = new Ogrenci();
@@ -13,3 +8,4 @@ public class soru6 {
         System.out.println(o1.ad +" "+ o1.soyad +" " + o1.ogrenciNo);
     }
 }
+
